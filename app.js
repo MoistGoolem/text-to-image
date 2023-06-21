@@ -1,5 +1,4 @@
 import customFonts from 'custom-fonts-in-emails';
-import express from 'express';
 import osFonts from 'os-fonts';
 
 //*Custom-fonts-in-emails attributes
