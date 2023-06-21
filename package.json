@@ -1,0 +1,26 @@
+{
+  "name": "text-to-image",
+  "version": "1.0.0",
+  "description": "A program which takes a text and a font and exports an image of said text.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoistGoolem/text-to-image.git"
+  },
+  "author": "Oliver Ramstedt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoistGoolem/text-to-image/issues"
+  },
+  "homepage": "https://github.com/MoistGoolem/text-to-image#readme",
+  "dependencies": {
+    "custom-fonts-in-emails": "^5.0.1",
+    "express": "^4.18.2",
+    "firacode": "^6.2.0",
+    "os-fonts": "^0.5.0"
+  }
+}
